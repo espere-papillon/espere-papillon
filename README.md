@@ -16,7 +16,7 @@
 ![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
 
 ### Follow me
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-1e1d1f?style-for=the-badge&logo=linkedin)](https://www.linkedin.com)
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-1e1d1f?style-for=the-badge&logo=linkedin)](https://www.linkedin.com/in/marina-bovkunovich)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espere-papillon&hide=stars,contribs&show_icons=true&theme=dracula)
 
