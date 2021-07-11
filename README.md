@@ -23,6 +23,6 @@
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-1e1d1f?style-for=the-badge&logo=linkedin)](https://www.linkedin.com/in/marina-bovkunovich)
 
 #
-### ✉️ Mail me: [ru9art@gmail.com](mailto:marinabov007@gmail.com)
+### ✉️ Mail me: [marinabov@gmail.com](mailto:marinabov007@gmail.com)
 ### 🌐 Telegram: [@espere_papillon](https://t.me/espere_papillon)
 
