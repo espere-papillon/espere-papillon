@@ -18,9 +18,9 @@
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-1e1d1f?style-for=the-badge&logo=linkedin)](https://www.linkedin.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espere_papillon&hide=stars,contribs&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espere-papillon&hide=stars,contribs&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espere_papillon&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espere-papillon&layout=compact)
 
 #
 ### ✉️ Mail me: [ru9art@gmail.com](mailto:marinabov007@gmail.com)
