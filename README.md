@@ -1,5 +1,5 @@
 ### Hi there 👋
-# My name is Marina and I'm front-end developer.
+# My name is Marina and I'm a front-end developer.
 
 ### Languages and Tools
 
